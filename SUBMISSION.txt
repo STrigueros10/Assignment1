@@ -1,0 +1,53 @@
+======================================================================
+ CS 1430  -  ASSIGNMENT 1  -  SUBMISSION RECEIPT
+======================================================================
+ Status         : COMPLETE - all checks passed
+ GitHub user    : STrigueros10
+ Repository     : https://github.com/STrigueros10/Assignment1
+ Commit         : f41c7f1  Initial commit
+ Commit author  : STrigueros10
+ Generated      : 2026-09-27 10:09:49
+
+ SELF CHECK
+======================================================================
+ CS 1430  -  ASSIGNMENT 1 SELF CHECK
+ 2026-09-27 10:09:49   STrigueros10
+======================================================================
+ [PASS] Python is installed                        3.14.7
+ [PASS] main.py is in this folder                  
+ [PASS] main.py runs without an error              
+ [PASS] The ASCII art is unchanged                 
+ [PASS] You added at least one print statement     3 added
+ [PASS] Your name shows up when the program runs   8 new lines of output
+ [PASS] Git is installed                           git version 2.55.0
+ [PASS] This folder is a Git repository            
+ [PASS] You have made a commit                     "Initial commit"
+ [PASS] This repo points at GitHub                 github.com/STrigueros10/Assignment1
+ [PASS] Your commit is pushed to GitHub            f41c7f1
+======================================================================
+
+ WHAT YOUR PROGRAM PRINTED
+======================================================================
+
+ _______         __ __
+|   |   |.-----.|  |  |.-----.
+|       ||  -__||  |  ||  _  |__
+|___|___||_____||__|__||_____|  |
+                              |_|
+ ________              __     __ __
+|  |  |  |.-----.----.|  |.--|  |  |
+|  |  |  ||  _  |   _||  ||  _  |__|
+|________||_____|__|  |__||_____|__|
+
+CS 1430  |  Introduction to Python  |  UW-Platteville
+WELCOME BACK SAM
+
+00000        000        000     000
+00   00     00 00       0000   0000
+0000       00   00      00 00 00 00
+   0000   000000000     00  000  00
+00   00   00     00     00   0   00
+00000     00     00     00       00
+
+My name is Sam and I am a student at UW-Platteville. I am taking CS 1430 to learn Python programming and my insturctor is Joshua Moris
+======================================================================

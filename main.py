@@ -33,3 +33,18 @@ print("CS 1430  |  Introduction to Python  |  UW-Platteville")
 
 
 # ---------------------- ADD YOUR CODE BELOW THIS LINE ---------------------
+# ------------------ ADD YOUR CODE BELOW THIS LINE ------------------
+# ------------------ ADD YOUR CODE BELOW THIS LINE ------------------
+# ------------------ ADD YOUR CODE BELOW THIS LINE ------------------
+
+print("WELCOME BACK SAM")
+print("""
+00000        000        000     000
+00   00     00 00       0000   0000
+0000       00   00      00 00 00 00
+   0000   000000000     00  000  00
+00   00   00     00     00   0   00
+00000     00     00     00       00
+""")
+
+print("My name is Sam and I am a student at UW-Platteville. I am taking CS 1430 to learn Python programming and my insturctor is Joshua Moris")
